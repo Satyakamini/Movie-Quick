@@ -8,6 +8,10 @@ I have also used bag of words method where all the words are collected and its f
 
 Check out the website: https://movie-quick.herokuapp.com/
 
+# Note
+I was unable to upload some dataset due to exceeding size limit. Hence, I have uploaded the datasets in drive, whose link is given below.
+For accessing the dataset- https://drive.google.com/file/d/1Zm2HQBD-mJ8EVGEOvz0SwIKz5H8qjha0/view?usp=sharing
+
 # Cosine Similarity
 <!-- ![70401457-a7530680-1a55-11ea-9158-97d4e8515ca4](https://user-images.githubusercontent.com/76248901/170921129-3757 -->
 Cosine similarity is measured by the cosine of the angle between two vectors. It is often used to measure document similarity in text analysis. 
